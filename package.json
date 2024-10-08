@@ -1,6 +1,6 @@
 {
   "name": "uselocalstoragenextjs",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Create hook useLocalStorage for NextJs",
   "main": "./dist/cjs/index.js",
   "module": "./dist/esm/index.js",
@@ -11,8 +11,8 @@
   },
   "keywords": [
     "hook",
-    "NextJs",
-    "LocalStorage"
+    "nextjs",
+    "localstorage"
   ],
   "author": "franciscoblancojn",
   "license": "ISC",

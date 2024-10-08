@@ -132,10 +132,10 @@ const {
 
 [Francisco Blanco](https://franciscoblanco.vercel.app/)
 
-[Gitlab franciscoblancojn](https://gitlab.com/franciscoblancojn)
+[Github franciscoblancojn](https://github.com/franciscoblancojn)
 
 [Email blancofrancisco34@gmail.com](mailto:blancofrancisco34@gmail.com)
 
 ## Repositories
 
-- [Gitlab](https://gitlab.com/franciscoblancojn/use-localstorage-nextjs)
+- [Github](https://github.com/franciscoblancojn/uselocalstoragenextjs)
